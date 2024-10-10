@@ -117,12 +117,12 @@
   ],
   "education": [
     {
-      "institution": "State University",
-      "url": "https://stateuniversity.edu",
+      "institution": "Arizona State University",
+      "url": "https://asu.edu",
       "area": "Computer Science",
-      "studyType": "Bachelor",
-      "startDate": "2018-09-01",
-      "endDate": "2022-05-01",
+      "studyType": "Masters",
+      "startDate": "2023-08-01",
+      "endDate": "2025-05-01",
       "score": "3.8",
       "courses": [
         "CS101 - Introduction to Computer Science",
