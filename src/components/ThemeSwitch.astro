@@ -19,6 +19,7 @@ import Theme from "@/icons/themeSwitch.astro";
 		const systemTheme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
 
 		function updateTheme(value: string) {
+			console.log("Updating theme to:", value); // Debug log
 			document.documentElement.classList.remove("light", "dark");
 			document.documentElement.classList.add(value);
 			localStorage.setItem("theme", value);
@@ -27,6 +28,7 @@ import Theme from "@/icons/themeSwitch.astro";
 		function toggleTheme() {
 			const currentTheme = document.documentElement.classList.contains("dark") ? "dark" : "light";
 			const newTheme = currentTheme === "dark" ? "light" : "dark";
+			console.log("Toggling theme from", currentTheme, "to", newTheme); // Debug log
 			updateTheme(newTheme);
 		}
 
