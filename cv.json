@@ -35,39 +35,37 @@
   },
   "work": [
     {
-      "name": "Tech Startup",
-      "position": "Junior Web Developer",
-      "location_type": "On site",
-      "location": "Auckland, New Zealand",
-      "url": "https://techstartup.com",
-      "startDate": "2024-01-01",
+      "name": "Quantera.ai",
+      "position": "AI Engineering Intern",
+      "location_type": "Remote",
+      "location": "Stockholm, Sweden",
+      "url": "https://quantera.ai",
+      "startDate": "2024-08-01",
       "endDate": null,
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
-      "highlights": [
-        "Improved website performance by optimizing code"
-      ],
+      "summary": 
+        "Developed data visualization and automation solutions for financial analysis and reporting"
+      ,
       "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
-      ],
-      "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
+        "Built a visualization engine to extract data, figure plot requirements and generate code to build plots from relevant sources for question-answer pairs. Served this as a single FastAPI endpoint to frontend.",
+        "Developed cron jobs to automate daily ETL processes for updating Top 500 US companies' earnings calls.",
+        "Collaborated with cross-functional teams to enhance data-driven insights for financial analysis."
       ],
       "skills": [
-        "React",
-        "Tailwind",
-        "GitHub"
+        "LlamaIndex",
+        "FastAPI",
+        "OLlama",
+        "AWS"
       ]
     },
+    
     {
-      "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
-      "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
-      "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
+      "name": "Data Mining and Reinforcement Learning Lab",
+      "position": "Research Engineer",
+      "location_type": "On site",
+      "location": "Tempe, Arizona",
+      "url": "https://labs.engineering.asu.edu/hw/",
+      "startDate": "2024-08-01",
+      "endDate": null,
       "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
       "highlights": [
         "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
