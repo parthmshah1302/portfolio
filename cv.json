@@ -1,35 +1,35 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Junior Full Stack Developer",
+    "name": "Parth Shah",
+    "label": "MS Computer Science | ASU",
     "image": "/me_avatar.jpg",
-    "email": "john.doe@example.com",
-    "phone": "+1 555-555-5555",
-    "url": "https://johndoe.dev",
+    "email": "pshah113@asu.edu",
+    "phone": "+1 415-212-3229",
+    "url": "https://parthshah.xyz",
     "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
     "theme": "default",
     "location": {
       "address": "",
       "postalCode": "10001",
-      "city": "Auckland",
-      "countryCode": "NZ",
-      "region": "New Zealand"
+      "city": "Tempe",
+      "countryCode": "US",
+      "region": "AZ"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "john-doe",
-        "url": "https://linkedin.com/in/john-doe"
+        "username": "parthmshah1302",
+        "url": "https://linkedin.com/in/parthmshah1302"
       },
       {
         "network": "X",
-        "username": "john-doe",
-        "url": "https://x.com/john-doe"
+        "username": "parthmshah1302",
+        "url": "https://x.com/parthmshah1302"
       },
       {
         "network": "GitHub",
-        "username": "johndoe",
-        "url": "https://github.com/johndoe"
+        "username": "parthmshah1302",
+        "url": "https://github.com/parthmshah1302"
       }
     ]
   },
