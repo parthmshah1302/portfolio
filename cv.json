@@ -2,15 +2,15 @@
   "basics": {
     "name": "Parth Shah",
     "label": "MS Computer Science | ASU",
-    "image": "/me_avatar.jpg",
+    "image": "/profile.jpg",
     "email": "pshah113@asu.edu",
     "phone": "+1 415-212-3229",
     "url": "https://parthshah.xyz",
-    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
+    "summary": "CS grad student at ASU, specializing in AI and data science, experienced in LLMs and data pipelines, seeking Spring 2025 Co-Op and full-time roles post-graduation.",
     "theme": "default",
     "location": {
       "address": "",
-      "postalCode": "10001",
+      "postalCode": "85281",
       "city": "Tempe",
       "countryCode": "US",
       "region": "AZ"
