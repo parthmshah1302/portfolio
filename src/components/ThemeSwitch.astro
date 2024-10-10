@@ -15,6 +15,13 @@ import Theme from "@/icons/themeSwitch.astro";
 
 	<script>
 		const button = document.getElementById("themeToggle") as HTMLButtonElement;
+		if (!button) {
+			console.error("Theme toggle button not found.");
+			return;
+		}
+		else{
+			console.log("The button was found")
+		}
 		const theme = localStorage.getItem("theme");
 		const systemTheme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
 
