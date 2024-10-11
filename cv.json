@@ -92,6 +92,7 @@
       "startDate": "2024-05-01",
       "endDate": "2024-05-01",
       "summary": "Designed and deployed a backend for the SADIE platform, conducted simulations to analyze network effects, and developed algorithms for AI ethics research, enhancing data accuracy and reliability.",
+      "achievements":[],
       "responsibilities": [
         "Designed and deployed a robust backend for the SADIE platform, enabling seamless interaction and information storage across multiple language model agents on Weaviate.",
         "Orchestrated simulations with hundreds of agents to analyze emergent network effects, improving data accuracy and reliability by 15% for research.",
