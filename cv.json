@@ -314,14 +314,14 @@
      
     },
     {
-      "name": "Weather App",
+      "name": "EvidenceChat",
       "isActive": true,
-      "description": "A web application that provides weather information for any location.",
+      "description": "A RAG Enhanced LLM Framework for Trustworthy and Evidential Response Generation.",
       "highlights": [
         "Built with JavaScript and OpenWeatherMap API",
         "Responsive design"
       ],
-      "url": "https://weatherapp.com"
+      "url": "https://drive.google.com/file/d/1VFYJBdtnMa4cE9X2VQqz-Pl6FWRjkiL2/view"
     },
     {
       "name": "YouTube2Vec",
@@ -335,14 +335,15 @@
       "github": "https://github.com/parthmshah1302/youtube2vec"
     },
     {
-      "name": "E-commerce Site",
+      "name": "Omnilogue",
       "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "description": "Multi-LLM Query App",
       "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
+        "Streamlit-based application that allows users to query multiple Language Models",
+        "Supports ChatGPT, Claude, Llama 3, and Gemma 2B-9B-IT"
       ],
-      "url": "https://ecommerce.com"
+      "url": "https://omnilogue.streamlit.app/",
+      "github": "https://github.com/parthmshah1302/omnilogue"
     }
   ]
 }
