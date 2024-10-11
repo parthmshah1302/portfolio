@@ -2,17 +2,19 @@
 import Theme from "@/icons/themeSwitch.astro";
 ---
 
-<div class="no-print inline-flex items-center">
+<div class="no-print inline-flex items-center fixed top-0 right-0 p-4">
 	<div class="group/theme flex items-center gap-2">
-		<button id="themeSwitch" class="flex items-center gap-1 text-sm font-medium leading-6 text-skin-base transition-transform ease-in-out group-hover/theme:rotate-45">
+		<button id="themeSwitch" class="flex items-center gap-1 text-sm font-medium leading-6 text-skin-base transition-transform ease-in-out group-hover/theme:rotate-45 p-2 rounded-full border-2 border-skin-base">
 			<Theme />
-			
 		</button>
 	</div>
 
 	<style>
 		:global(.dark) {
 			color-scheme: dark;
+		}
+		:global(.light) #themeSwitch {
+			background-color: transparent;
 		}
 	</style>
 
